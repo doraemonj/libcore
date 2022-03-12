@@ -1,8 +1,15 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
+summary: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+draft: false
+
+tags: []
+categories: []
 author: ""
-description: ""
+featuredImagePreview: https://doraemonj.github.io/pics/The_Housing_Boom_and_Bust.png
+
 ---
+
+请添加内容
 

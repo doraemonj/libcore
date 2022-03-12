@@ -1,4 +1,4 @@
-baseURL = "https://doraemonj.github.io/"
+baseURL = "https://doraemonjuv.github.io/"
 # [en, zh-cn, fr, ...] 设置默认的语言
 defaultContentLanguage = "zh-cn"
 # 网站语言, 仅在这里 CN 大写
@@ -11,7 +11,7 @@ title = "定制你自己的图书馆"
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "LoveIt"
 
-publishDir = "/Users/tangqiang/oftendieqq/"
+publishDir = "/Users/tangqiang/doraemonjuv/"
 
 
 [languages]
@@ -32,13 +32,21 @@ publishDir = "/Users/tangqiang/oftendieqq/"
       title = ""
       weight = 1
     [[languages.zh-cn.menu.main]]
+      identifier = "guide"
+      pre = ""
+      post = ""
+      name = "指南"
+      url = "/guide/"
+      title = ""
+      weight = 2
+    [[languages.zh-cn.menu.main]]
       identifier = "tags"
       pre = ""
       post = ""
       name = "标签"
       url = "/tags/"
       title = ""
-      weight = 2
+      weight = 3
     [[languages.zh-cn.menu.main]]
       identifier = "categories"
       pre = ""
@@ -46,7 +54,7 @@ publishDir = "/Users/tangqiang/oftendieqq/"
       name = "分类"
       url = "/categories/"
       title = ""
-      weight = 3
+      weight = 4
     [[languages.zh-cn.menu.main]]
       identifier = "about"
       pre = ""
@@ -54,7 +62,7 @@ publishDir = "/Users/tangqiang/oftendieqq/"
       name = "关于"
       url = "/about/"
       title = ""
-      weight = 4
+      weight = 5
 
   [languages.en]
     weight = 2
@@ -70,13 +78,21 @@ publishDir = "/Users/tangqiang/oftendieqq/"
       title = ""
       weight = 1
     [[languages.en.menu.main]]
+      identifier = "guide"
+      pre = ""
+      post = ""
+      name = "Guide"
+      url = "/guide/"
+      title = ""
+      weight = 2
+    [[languages.en.menu.main]]
       identifier = "tags"
       pre = ""
       post = ""
       name = "Tags"
       url = "/tags/"
       title = ""
-      weight = 2
+      weight = 3
     [[languages.en.menu.main]]
       identifier = "categories"
       pre = ""
@@ -84,7 +100,7 @@ publishDir = "/Users/tangqiang/oftendieqq/"
       name = "Categories"
       url = "/categories/"
       title = ""
-      weight = 3
+      weight = 4
     [[languages.en.menu.main]]
       identifier = "about"
       pre = ""
@@ -92,7 +108,7 @@ publishDir = "/Users/tangqiang/oftendieqq/"
       name = "About"
       url = "/about/"
       title = ""
-      weight = 4
+      weight = 5
 
 [params]
   #  LoveIt 主题版本
@@ -248,7 +264,7 @@ publishDir = "/Users/tangqiang/oftendieqq/"
     Gitlab = ""
     Youtubelegacy = ""
     Youtubecustom = ""
-    Youtubechannel = "UCZnRJIzwFtENopNDdUAPgVA"
+    Youtubechannel = ""  # 待发布 UCZnRJIzwFtENopNDdUAPgVA
     Tumblr = ""
     Quora = ""
     Keybase = ""
