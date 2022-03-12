@@ -1,5 +1,5 @@
 ---
-title: "关于"
+title: "关于我们"
 date: 2022-03-07T12:28:55+08:00
 draft: false
 author: "tom"
