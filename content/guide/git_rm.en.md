@@ -2,7 +2,7 @@
 title: "How to Delete a Git File or Folder While Keeping the Local Ones"
 summary: "delete Git files or folders"
 date: 2022-03-13T19:04:50+08:00
-draft: false
+draft: true
 
 tags: ["Git","Git delete"]
 categories: ["Git"]

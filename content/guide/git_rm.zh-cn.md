@@ -2,7 +2,7 @@
 title: "如何删除Git文件、而保留本地文件"
 summary: "删除Git文件"
 date: 2022-03-13T19:04:50+08:00
-draft: false
+draft: true
 
 tags: ["Git","Git delete files"]
 categories: ["Git"]
