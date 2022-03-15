@@ -1,7 +1,7 @@
 ---
 title: "如何注册Github帐号"
 summary: "自建图书馆第1步：拥有Github帐号"
-date: 2022-03-14T13:32:50+08:00
+date: 2022-03-15T15:32:50+08:00
 draft: false
 
 tags: ["Github","Github account"]
@@ -17,7 +17,7 @@ featuredImagePreview: https://doraemonj.github.io/pics/guide_001_create_github_a
 
 ![screenshot_20220314_170556](https://doraemonj.github.io/pics/screenshot_20220314_221556.png)
 
-## 2. 输入邮箱、密码和用户名：
+## 2. 输入邮箱、密码和用户名
 
 ![](https://doraemonj.github.io/pics/screenshot_20220314_222525.png)
 
@@ -33,7 +33,7 @@ Github会向你的邮箱发送8位验证码，输入：
 
 ![screenshot_20220314_224037](https://doraemonj.github.io/pics/screenshot_20220314_224037.png)
 
-## 3. 通过验证，显示欢迎页面：
+## 3. 通过验证，显示欢迎页面
 
 ![screenshot_20220314_224025](https://doraemonj.github.io/pics/screenshot_20220314_224025.png)
 
