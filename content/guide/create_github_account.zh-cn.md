@@ -1,7 +1,7 @@
 ---
 title: "如何注册Github帐号"
 summary: "自建图书馆第1步：拥有Github帐号"
-date: 2022-03-15T15:32:50+08:00
+date: 2022-03-15T16:14:50+08:00
 draft: false
 
 tags: ["Github","Github account"]

@@ -1,7 +1,7 @@
 ---
 title: "如何注册Github Pages"
 summary: "自建图书馆第2步：注册Github Pages"
-date: 2022-03-15T09:04:50+08:00
+date: 2022-03-15T16:04:50+08:00
 draft: false
 
 tags: ["Git", "Github Pages"]

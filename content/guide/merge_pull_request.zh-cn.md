@@ -1,7 +1,7 @@
 ---
 title: "如何接收Pull Request"
 summary: "自建图书馆第2步：注册Github Pages"
-date: 2022-03-11T13:30:50+08:00
+date: 2022-03-15T13:30:50+08:00
 draft: false
 
 tags: ["Github", "Pull Request"]
