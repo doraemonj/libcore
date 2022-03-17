@@ -149,11 +149,11 @@ publishDir = "/Users/tangqiang/doraemonj/"
   [params.search]
     enable = true
     # 搜索引擎的类型 ("lunr", "algolia")
-    type = "lunr"
+    type = "algolia"
     # 文章内容最长索引长度
     contentLength = 4000
     # 搜索框的占位提示语
-    placeholder = ""
+    placeholder = "中文搜索特别快"
     #  最大结果数目
     maxResultLength = 10
     #  结果内容片段长度
@@ -164,8 +164,8 @@ publishDir = "/Users/tangqiang/doraemonj/"
     absoluteURL = false
     [params.search.algolia]
       index = ""
-      appID = ""
-      searchKey = ""
+      appID = "8MTQCCMA7B"
+      searchKey = "330cd455e402aa838654d196242155f6"
 
   # 页面头部导航栏配置
   [params.header]
@@ -420,7 +420,7 @@ publishDir = "/Users/tangqiang/doraemonj/"
         #
         enable = true
         # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
-        shortname = ""
+        shortname = "saysomething"
       # Gitalk 评论系统设置
       [params.page.comment.gitalk]
         #
