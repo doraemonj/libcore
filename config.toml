@@ -149,7 +149,7 @@ publishDir = "/Users/tangqiang/doraemonj/"
   [params.search]
     enable = true
     # 搜索引擎的类型 ("lunr", "algolia")
-    type = "lunr"
+    type = "algolia"
     # 文章内容最长索引长度
     contentLength = 4000
     # 搜索框的占位提示语
@@ -163,9 +163,9 @@ publishDir = "/Users/tangqiang/doraemonj/"
     #  是否在搜索索引中使用基于 baseURL 的绝对路径
     absoluteURL = false
     [params.search.algolia]
-      index = ""
-      appID = ""
-      searchKey = ""
+      index = "new-index-1647494341"
+      appID = "NXTYKU1SMH"
+      searchKey = "d28b83e5fcea4023c2c073c5e9ec3535"
 
   # 页面头部导航栏配置
   [params.header]
