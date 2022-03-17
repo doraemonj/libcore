@@ -2,7 +2,7 @@
 title: "血流成河"
 summary: "Blood in the Streets: Investment Profits in a Word Gone Mad"
 date: 2022-02-07T10:07:48+08:00
-draft: false
+draft: true
 
 tags: ["capital","investment","资本"]
 categories: ["资本","投资"]
