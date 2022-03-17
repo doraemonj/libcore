@@ -2,7 +2,7 @@
 title: "Make it Stick"
 summary: "让所学与你相关：学有所成的科学"
 date: 2022-02-18T11:46:29+08:00
-draft: false
+draft: true
 
 tags: ["学习","learn","skill","self-learning"]
 categories: ["skill", "learning"]

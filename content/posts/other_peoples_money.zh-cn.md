@@ -2,7 +2,7 @@
 title: "别人的钱"
 summary: "Other People's Money: and How the Bankers Use it"
 date: 2022-02-01T15:55:29+08:00
-draft: false
+draft: true
 
 tags: ["钱","money","captital","bank","banker","invest","combine"]
 categories: ["capital", "money"]
