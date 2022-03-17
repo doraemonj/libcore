@@ -2,7 +2,7 @@
 title: "人的行为"
 summary: "Human Action: A Treatise On Economics"
 date: 2022-02-23T09:46:29+08:00
-draft: true
+draft: false
 
 tags: ["人的行为","action","human","economics"]
 categories: ["human action", "economics"]

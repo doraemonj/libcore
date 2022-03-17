@@ -2,7 +2,7 @@
 title: "The Housing Boom and Bust"
 summary: "房地产的繁荣与萧条"
 date: 2022-03-06T13:00:48+08:00
-draft: true
+draft: false
 
 tags: ["房地产","real estate","boom","Thomas Sowell"]
 categories: ["房地产"]
