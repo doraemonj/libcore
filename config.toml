@@ -418,15 +418,15 @@ publishDir = "/Users/tangqiang/doraemonj/"
       # Disqus 评论系统设置
       [params.page.comment.disqus]
         #
-        enable = true
+        enable = false
         # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
-        shortname = "saysomething"
+        shortname = ""
       # Gitalk 评论系统设置
       [params.page.comment.gitalk]
         #
-        enable = false
-        owner = ""
-        repo = ""
+        enable = true
+        owner = "doraemonj"
+        repo = "doraemonj.github.io"
         clientId = ""
         clientSecret = ""
       # Valine 评论系统设置
