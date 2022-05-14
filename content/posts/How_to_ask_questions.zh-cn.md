@@ -2,7 +2,7 @@
 title: "提问的智慧"
 summary: "How to Ask Questions: The Smart Way"
 date: 2022-02-15T13:38:16+08:00
-draft: false
+draft: true
 
 tags: ["提问","ask","question","Eric S. Raymond","Rick Moen"]
 categories: ["技能", "skill"]
