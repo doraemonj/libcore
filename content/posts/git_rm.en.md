@@ -4,7 +4,7 @@ summary: "Delete Git files or folders"
 date: 2022-03-13T19:04:50+08:00
 draft: false
 
-tags: ["Git","Git delete"]
+tags: ["Git"]
 categories: ["Git"]
 featuredImagePreview: "https://doraemonj.github.io/pics/git_003.jpeg"
 ---

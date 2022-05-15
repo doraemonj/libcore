@@ -5,7 +5,7 @@ date: 2022-05-14T10:47:34+08:00
 draft: false
 
 tags: ["prepare", "Python"]
-categories: ["prepare"]
+categories: ["Python"]
 featuredImagePreview: "https://doraemonj.github.io/pics/python_013.png"
 ---
 
