@@ -6,7 +6,7 @@ draft: false
 
 tags: ["prepare", "Python"]
 categories: ["prepare"]
-featuredImagePreview: "https://doraemonj.github.io/pics/python_001.jpeg"
+featuredImagePreview: "https://doraemonj.github.io/pics/python_013.png"
 ---
 
 According to current Covid-19 controlling situation in our country, my wife and daughter both have a great mind to go abroad. 
