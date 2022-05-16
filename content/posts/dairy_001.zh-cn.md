@@ -6,6 +6,7 @@ draft: false
 
 tags: ["准备"]
 categories: ["准备"]
+featuredImagePreview: "https://doraemonj.github.io/pics/doraemon_999.jpeg"
 ---
 
 2022年5月11日，开始准备工作。
