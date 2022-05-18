@@ -1,6 +1,6 @@
 ---
-title: "完成人生第一份英文简历"
-summary: "日记006"
+title: "再次修缮简历"
+summary: "日记007"
 date: 2022-05-17T22:33:26+08:00
 draft: false
 
@@ -11,17 +11,18 @@ featuredImagePreview: "https://doraemonj.github.io/pics/doraemon_999.jpeg"
 
 ### 今日已完成事项
 
--   [x] 完成英文[Resume](https://doraemonj.github.io/docs/Resume-2022-05-17.pdf)第一版，并写了[推送文章](https://doraemonj.github.io/dairy_005/)，以后简历会不定期更新，命名为Resume_latest.pdf，放在[这里](https://doraemonj.github.io/docs/Resume_latest.pdf)，你也可以通过我的[GitHub仓库](https://github.com/doraemonj/doraemonj.github.io/tree/main/docs)查看。
+-   [x] 一上午，又修缮了几轮简历，更新到第八版，从内容和语法层面再次更新，增加了照片，以后这里保留最新版。
 
--   [x] 和Amy、Alice一起观看了崔永元的华盛顿演讲：
+    花了19.99美元在[novoresume.com]()上做份简历真的很值，节省了不少时间。虽然看起来花了不少时间，但注意力都放在内容上，形式上花的时间接近零，因为没怎么操心。
 
-    {{< youtube  iL5dZBFv--o>}}
+    如果当时没买这项服务，估计又得在形式上花几天的时间。**在工具上省钱，真的应该算没出息。**
+
+-   [x] LinkedIn今天早上批准了我的申请，从今天开始，我就正式成为Chris Howard了，今天下午提交资料。
 
 ### 后续待完成事项
 
 -   [ ] 工作任务清单排序：
 
-    -   [ ] 在LinkedIn上提交简历。这两天我的LinkedIn帐号居然莫名被锁，虽然已经提交了身份证照片的正反面，但好像两天了还没有得到审批通过。
 -   [ ] 投递简历（1份-10份-100份）
 -   [ ] Python代码上传Github，写README.md文件，案例双语展示
 
