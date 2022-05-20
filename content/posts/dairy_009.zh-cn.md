@@ -15,9 +15,9 @@ featuredImagePreview: "https://doraemonj.github.io/pics/doraemon_999.jpeg"
 
 -   [x] 英文句库搜集：平时注意搜集各场景的句子，如电影台词、解说词、名人Twitter、LinkedIn、YouTube、原版书等。
 
-    今天已开始搜集，从Funny-English
+    今天已开始搜集，从[Funny-English第一篇](https://doraemonj.github.io/zh-cn/funny_english_001/)开始
 
--   [ ] 准备面试英语，分段读熟讲熟（晚上做）
+-   [ ] 准备面试英语，分段读熟讲熟（当天准备晚上做——结果晚上没做）
 
     -   [ ] Presentation：自我介绍
     -   [ ] 梳理面试问题集
@@ -48,7 +48,7 @@ featuredImagePreview: "https://doraemonj.github.io/pics/doraemon_999.jpeg"
 
     -   [x] 西方思想史：[忒修斯之船隐喻，人为何不能踏入同一条河流](https://www.ixigua.com/6956915456842138150?logTag=e7bd8727d2f212ac0492)
 
-    -   [x] 历史：
+    -   [x] 历史：史记《礼记本纪》
 
     -   [x] 英语：今天看了个[崔永元的演讲](https://www.youtube.com/watch?v=IFWmlvojXLg)，决定尝试英语笑话集的学习模式，尽量把课程做得好玩。Google一下，俯拾皆是：
 
@@ -75,11 +75,11 @@ featuredImagePreview: "https://doraemonj.github.io/pics/doraemon_999.jpeg"
 
     -   [ ] SUPERVISA: 未通过测试，网站反馈无适合我的work项目，所以没给我写简历的机会。
 
-    -   [x] Job Bank：已递交简历，下载简历格式
+    -   [x] Job Bank：已递交简历，[下载](https://doraemonj.github.io/docs/JobBank_Resume_20220519.rtf)。
 
-    -   [x] Indeed：已递交简历，下载简历格式
+    -   [x] Indeed：已递交简历，[下载](https://doraemonj.github.io/docs/Indeed_Resume_20220519.pdf)。
 
-    -   [x] Workopolis：在workopolis上发了五封Resume
+    -   [x] Workopolis：第二轮，在workopolis上发了三封Resume
 
     -   [ ] Randstad
     
@@ -103,7 +103,3 @@ featuredImagePreview: "https://doraemonj.github.io/pics/doraemon_999.jpeg"
 -   [ ] 每周两篇思想史文章翻译（双语上传）
 
 -   [ ] 更新手机Mixin Messager（暂无法更新，可能需要香港帐号，待议）
-
-
-
-<font color='red'> 老样子，核心是聚焦</font>
