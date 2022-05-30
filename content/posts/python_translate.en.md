@@ -2,7 +2,7 @@
 title: "Auto Translation Ebook to Any Languages"
 summary: "Python translation"
 date: 2022-05-25T17:45:26+08:00
-draft: false
+draft: true
 
 tags: ["Python"]
 categories: ["Python"]

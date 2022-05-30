@@ -4,8 +4,8 @@ summary: "日记004"
 date: 2022-05-14T21:22:26+08:00
 draft: false
 
-tags: ["准备"]
-categories: ["准备"]
+tags: ["日记"]
+categories: ["日记"]
 featuredImagePreview: "https://doraemonj.github.io/pics/doraemon_999.jpeg"
 ---
 
@@ -13,7 +13,7 @@ featuredImagePreview: "https://doraemonj.github.io/pics/doraemon_999.jpeg"
 
 -   [x] 博客的版面调整，主页从中文版换成了英文版，因为要面向外国友人嘛；版面拉宽，看着舒服多了。
 -   [x] 重写英文版的[关于文档](https://doraemonj.github.io/about/)，中文版的以后再写
--   [x] 研究了英文简历，特别是Resume和CV的区别：简单和详细，打印了一些简历模板，开始准备
+-   [x] vs研究了英文简历，特别是Resume和CV的区别：简单和详细，打印了一些简历模板，开始准备
 -   [x] 打印了雅思900句中的72句
 -   [x] 调整对Alice的英语教学方法：读短句or看视频，Alice选择了
 

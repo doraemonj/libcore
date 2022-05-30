@@ -4,8 +4,8 @@ summary: "Diary 001: Starting now"
 date: 2022-05-11T15:13:10+08:00
 draft: true
 
-tags: ["prepare"]
-categories: ["prepare"]
+tags: ["diary"]
+categories: ["diary"]
 ---
 
 On May 11, 2022, I started preparing for migration.

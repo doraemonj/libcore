@@ -31,13 +31,43 @@ featuredImagePreview: "https://doraemonj.github.io/pics/liberty_arts_20220520.pn
 
 ---
 
-#### 思想史：普罗米修斯的故事 | 关于文明的关键隐喻
-
-{{< youtube 65o8ic2qnlk>}}
+### 2022-05-28
 
 ---
 
-### 2022-05-28
+#### 视觉：关于对称性的令人震惊的解释
+
+Big Think：A mind-blowing explanation of symmetry
+
+{{< youtube sMg4XJG2XyY>}}
+
+---
+
+#### 儿童魔术表演
+
+MAGIC KIDS! | Britain's Got Talent
+
+{{< youtube sduW4eOc1A8>}}
+
+---
+
+#### 罗翔：细思极恐的《西游记》，唐僧身世之迷
+
+{{< youtube  LgkM6mGgNyM>}}
+
+---
+
+### 2022-05-29
+
+---
+
+读书：[逻辑课的消亡](https://doraemonj.github.io/zh-cn/logic_vanished/)
+
+---
+
+#### 思想史：普罗米修斯的故事 | 关于文明的关键隐喻
+
+{{< youtube 65o8ic2qnlk>}}
 
 ---
 
@@ -65,7 +95,13 @@ featuredImagePreview: "https://doraemonj.github.io/pics/liberty_arts_20220520.pn
 
 ---
 
-### 2022-05-29
+### 2022-05-30
+
+---
+
+#### 记录片《他乡的童年》：比较中国和丹麦中学教育
+
+{{< youtube Z_WSJUNxPZc>}}
 
 ---
 
@@ -83,19 +119,7 @@ featuredImagePreview: "https://doraemonj.github.io/pics/liberty_arts_20220520.pn
 
 ---
 
-#### 罗翔：细思极恐的《西游记》，唐僧身世之迷
-
-{{< youtube  LgkM6mGgNyM>}}
-
----
-
-
-
-
-
 ### 待学习材料
-
-
 
 ---
 
@@ -123,7 +147,9 @@ Naval Ravikant Reacts to the Current Education System
 
 ---
 
+#### 记录片：富人孩子在拼命学习，穷人孩子却在混日子
 
+{{< youtube zT-X-R-6RBs>}}
 
 ---
 
@@ -168,10 +194,6 @@ Naval Ravikant Reacts to the Current Education System
 **10：平等 (3:24:45)**
 
 **11：多元主义 (3:47:39)**
-
----
-
-
 
 ---
 
@@ -547,6 +569,10 @@ IELTS Speaking test band score of 9 with feedback
 余华
 
 严复
+
+易中天
+
+
 
 
 

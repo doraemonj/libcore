@@ -4,8 +4,8 @@ summary: "日记011"
 date: 2022-05-22T21:18:26+08:00
 draft: false
 
-tags: ["准备"]
-categories: ["准备"]
+tags: ["日记"]
+categories: ["日记"]
 featuredImagePreview: "https://doraemonj.github.io/pics/doraemon_999.jpeg"
 ---
 

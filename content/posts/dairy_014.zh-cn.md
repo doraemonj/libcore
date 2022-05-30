@@ -1,11 +1,11 @@
 ---
-title: "继续读Naval Ravikant宝典"
+title: "苹果电脑工作区分页"
 summary: "日记014"
 date: 2022-05-25T17:45:26+08:00
 draft: false
 
-tags: ["准备"]
-categories: ["准备"]
+tags: ["日记"]
+categories: ["日记"]
 featuredImagePreview: "https://doraemonj.github.io/pics/doraemon_999.jpeg"
 ---
 

@@ -4,8 +4,8 @@ summary: "Who am I, and why me?"
 date: 2022-05-17T21:47:34+08:00
 draft: false
 
-tags: ["prepare"]
-categories: ["prepare"]
+tags: ["diary"]
+categories: ["diary"]
 featuredImage: "https://doraemonj.github.io/pics/who-am-i-7.jpeg"
 featuredImagePreview: "https://doraemonj.github.io/pics/who-am-i-7.jpeg"
 ---

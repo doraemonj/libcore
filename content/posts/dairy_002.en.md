@@ -4,8 +4,8 @@ summary: "Collecting and gathering"
 date: 2022-05-12T22:23:01+08:00
 draft: true
 
-tags: ["prepare"]
-categories: ["prepare"]
+tags: ["diary"]
+categories: ["diary"]
 ---
 
 ### 2022-05-12 To-Do List

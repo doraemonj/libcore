@@ -1,11 +1,11 @@
 ---
-title: "Easy choice, hard life. Hard choice, easy life."
+title: "Naval：轻松选择，艰难生活；艰难选择，轻松生活"
 summary: "日记016"
 date: 2022-05-27T22:06:26+08:00
 draft: false
 
-tags: ["准备"]
-categories: ["准备"]
+tags: ["日记"]
+categories: ["日记"]
 featuredImagePreview: "https://doraemonj.github.io/pics/doraemon_999.jpeg"
 ---
 
@@ -15,6 +15,7 @@ featuredImagePreview: "https://doraemonj.github.io/pics/doraemon_999.jpeg"
 
 >   Easy choice, hard life. Hard choice, easy life.
 >
+>   轻松选择，艰难生活；艰难选择，轻松生活。
 
 写了篇关于在Mixin环境做空的文章，发表在Mixin机器人（7000104144）上，请登录查阅。
 

@@ -3,7 +3,7 @@ title: "孤独大脑：稳赚的原理"
 summary: "煮熟的鸭子飞得快"
 date: 2022-05-19T10:14:23+08:00
 draft: false
-
+author: "老喻"
 tags: ["老喻", "套利"]
 categories: ["推荐中文读物"]
 featuredImagePreview: "https://doraemonj.github.io/pics/20220519_001.jpg"
