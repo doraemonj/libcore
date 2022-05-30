@@ -1,5 +1,5 @@
 ---
-title: "Naval：最难之事不是去做你想做的事，而是去了解你想做的事"
+title: "Naval：最难之事不是去做你想做的事，而是去理解你想做的事"
 summary: "自由是核心价值观"
 date: 2022-05-30T11:54:26+08:00
 draft: false
@@ -23,7 +23,7 @@ featuredImagePreview: "https://doraemonj.github.io/pics/doraemon_999.jpeg"
 
 >   The hardest thing is not doing what you want -- it's knowing what you want.
 >
->   最难之事不是去做你想做的事，而是去了解你想做的事。
+>   最难之事不是去做你想做的事，而是去理解你想做的事。
 
 >   My old definition was "freedom to." Freedom to do anything I want. Freedom to do whatever I feel like, whenever I feel like. Now, the freedom I'm looking for is internal freedom. It's "freedom from." Freedom from reaction. Freedom from feeling angry. Freedom from being sad. Freedom from being forced to do things. I'm looking for "freedom from," internally and externally, whereas before I was looking for "freedom to."
 
