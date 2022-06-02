@@ -11,13 +11,17 @@ featuredImagePreview: "https://doraemonj.github.io/pics/doraemon_999.jpeg"
 
 ### 今日功课
 
-上午发布逻辑谬误系列的第三篇文章：[否定前件](https://doraemonj.github.io/zh-cn/logical_fallacy_002/)，再发三条Mixin机器人小密圈，开始翻译书，先从
+上午发布逻辑谬误系列的第三篇文章：[否定前件](https://doraemonj.github.io/zh-cn/logical_fallacy_002/)，下一篇：中项不周延。发完三条Mixin小密圈，开始一边翻译书，一边写教程：如何翻译书。
 
+先从改变calibre的默认目录开始，以后不用每次都调整文件位置，提高效率一级棒。今天准备翻译一本讲述华尔街信仰和习惯的书《清算》：Liquidated，该书出版于2009年。
 
+>   Karen Ho的这本书以民族志（Ethnography）为方法尝试解读华尔街的特殊文化，开风气之先，但是运用的理论体系有点迎合时下流行的左派价值观，缺乏近代社会科学思想的悠长深邃。
+>
+>   决定一群人思维和行为模式的最深层逻辑，并不是经济利益，而是他们的信仰和习惯。从这个角度来说，要想理解华尔街的底层逻辑，我们不能从经济利益的角度出发，因为那只是表层的生意逻辑，底层逻辑在于华尔街族群的共同信仰和习惯。
+>
+>   ——[政经孙老师](https://www.youtube.com/post/UgkxDurkAdyYYlhwUJnmlfdjdwl_ZYEijP_b)
 
-### 翻译工作进展
-
-
+在五月还剩半个小时的时候，发布了[翻译项目文章第一篇](https://doraemonj.github.io/zh-cn/translation_tutorial/)。
 
 
 ### 后续待完成事项

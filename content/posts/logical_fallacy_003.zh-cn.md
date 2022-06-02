@@ -10,7 +10,7 @@ featuredImage: "https://doraemonj.github.io/pics/qf_1653956400.png"
 featuredImagePreview: "https://doraemonj.github.io/pics/qf_1653956400.png"
 ---
 
-
+Fallacy of the undistributed middle
 
 ### 什么是中项不周延？
 

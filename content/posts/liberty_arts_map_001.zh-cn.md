@@ -143,5 +143,5 @@ featuredImagePreview: "https://doraemonj.github.io/pics/liberty_arts_20220520.pn
 
 ---
 
-[通识地图002](https://doraemonj.github.io/zh-cn/liberty_arts_capsule_002/)
+[通识地图002](https://doraemonj.github.io/zh-cn/liberty_arts_map_002/)
 

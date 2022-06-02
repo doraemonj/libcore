@@ -1,7 +1,7 @@
 ---
-title: "通识地图002：西方思想史的东方引路人"
-summary: "思想史科普第一人"
-date: 2022-05-27T12:14:26+08:00
+title: "通识地图003："
+summary: "让儿童节从探索宇宙开始"
+date: 2022-06-01T06:53:26+08:00
 draft: false
 
 tags: ["通识"]
@@ -9,81 +9,41 @@ categories: ["通识地图"]
 featuredImagePreview: "https://doraemonj.github.io/pics/liberty_arts_20220520.png"
 ---
 
-4月下旬我偶然接触抖音up主『思想史万有引力』，后来经常看他的视频，发现各平台都有：西瓜视频、B站、油管……
-
-后来带着家人一起看，每集3-9分钟的视频，硬是看完了全部200多集。体验了东方思想教育从未有过的兴致勃勃，适合10岁-100岁的东方人士享用，我们家10岁的小朋友看得停不下来。
+从今天开始争取每天花20分钟时间过下丛日云教授的西方文明通论，搭配其他内容，拓宽家人视野。
 
 ---
 
-### 2022-05-27
+### 2022-06-02
 
 ---
 
-#### 思想史：文艺复兴：被遗忘的传薪者
+#### 好奇号宇宙飞船（火星）
 
-{{< youtube v9Fsgr2dgDU>}}
+Voyage of Curiosity: A Martian Chronicle 4k
 
----
+{{< youtube qaUhLXolGaI >}}
 
-#### 思想史：波普尔：科学的界限
+Tech Bang: 10 Questionable Things NASA Has Found On Mars
 
-{{< youtube 0hBTakoyJvM>}}
-
----
-
-### 2022-05-28
+{{< youtube bW-U3BSqzFQ>}}
 
 ---
 
-#### 视觉：关于对称性的令人震惊的解释
+#### 坚持号宇宙飞船（火星）
 
-Big Think：A mind-blowing explanation of symmetry
+Mars: Perseverance Rover - The ingenuity helicopter finds water on Mars during a flight
 
-{{< youtube sMg4XJG2XyY>}}
-
----
-
-#### 儿童魔术表演
-
-MAGIC KIDS! | Britain's Got Talent
-
-{{< youtube sduW4eOc1A8>}}
+{{< youtube yIIq3fExjfY>}}
 
 ---
 
-#### 罗翔：细思极恐的《西游记》，唐僧身世之迷
+#### 旅行者1号宇宙飞船（飞出太阳系）
 
-{{< youtube  LgkM6mGgNyM>}}
+What Did Voyager 1 See During its Journey Out Of The Solar System? 1977-2019 (4k UHD)
 
----
+{{< youtube Du5hekU95mY>}}
 
-### 2022-05-29
-
----
-
-读书：[逻辑课的消亡](https://doraemonj.github.io/zh-cn/logic_vanished/)
-
----
-
-#### 思想史：普罗米修斯的故事 | 关于文明的关键隐喻
-
-{{< youtube 65o8ic2qnlk>}}
-
----
-
-#### 什么是Liberty Arts？
-
-{{< youtube DyjZ1hZLf4Y>}}
-
----
-
-#### Liberty Arts有哪七项？
-
-{{< youtube 4Ju4aL2WR2E>}}
-
-语法（Grammar），逻辑（Logic），修辞（Rhetoric）
-
-算术（Arithmetic），几何（Geometry），天文（Astronomy），音乐（Music）
+旅行者1号（Voyager 1）是美国宇航局（NASA）研制的一艘无人外太阳系空间探测器，重825.5kg，于1977年9月5日发射，部分功能截至目前依然正常运作，并持续与NASA的深空网络通信。
 
 ---
 
@@ -92,16 +52,6 @@ MAGIC KIDS! | Britain's Got Talent
 公交车上一件小事，让他彻底下定移民决心
 
 {{< youtube  Nf8v2WSJMzQ>}}
-
----
-
-### 2022-05-30
-
----
-
-#### 记录片《他乡的童年》：比较中国和丹麦中学教育
-
-{{< youtube Z_WSJUNxPZc>}}
 
 ---
 
@@ -136,20 +86,6 @@ MAGIC KIDS! | Britain's Got Talent
 The Full Story of Naval Ravikant | The Angel Philosopher
 
 {{< youtube  mGY2To_HW98>}}
-
----
-
-#### Naval Ravikant：Google时代的现代教育已过时
-
-Naval Ravikant Reacts to the Current Education System
-
-{{< youtube  _YltxkgTyvE>}}
-
----
-
-#### 记录片：富人孩子在拼命学习，穷人孩子却在混日子
-
-{{< youtube zT-X-R-6RBs>}}
 
 ---
 
@@ -440,7 +376,7 @@ add：Canton-sardine / 268 Keefer St，#071 at LG level，Vancouver
 
 ---
 
-#### 平地惊雷：笛卡尔如何用纯思维演绎恢宏世界？
+#### 思想史：平地惊雷：笛卡尔如何用纯思维演绎恢宏世界？
 
 思想史万有引力
 
@@ -448,15 +384,9 @@ add：Canton-sardine / 268 Keefer St，#071 at LG level，Vancouver
 
 ---
 
-#### 卡西尼号宇宙飞船
+### 思想史：欧洲为什么是美食地狱？
 
----
-
-#### 好奇号宇宙飞船
-
----
-
-#### 坚持号宇宙飞船
+[抖音链接](https://www.douyin.com/video/7017397352264699148)
 
 ---
 
@@ -465,6 +395,8 @@ add：Canton-sardine / 268 Keefer St，#071 at LG level，Vancouver
 ---
 
 #### 属加种差
+
+{{< youtube IcOxaL_o5jU>}}
 
 ---
 
@@ -480,7 +412,7 @@ IELTS Speaking test band score of 9 with feedback
 
 {{< youtube u9cggZHjwS4>}}
 
-
+---
 
 ### 后续待学习人物清单
 
@@ -606,5 +538,5 @@ Linus
 
 ---
 
-下一粒：通识胶囊003
+下一篇：通识地图004
 
