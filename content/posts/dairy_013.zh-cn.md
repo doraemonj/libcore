@@ -2,7 +2,7 @@
 title: "继续读Naval Ravikant宝典"
 summary: "日记013"
 date: 2022-05-24T09:45:26+08:00
-draft: false
+draft: true
 
 tags: ["日记"]
 categories: ["日记"]

@@ -2,7 +2,7 @@
 title: "Naval：轻松选择，艰难生活；艰难选择，轻松生活"
 summary: "日记016"
 date: 2022-05-27T22:06:26+08:00
-draft: false
+draft: true
 
 tags: ["日记"]
 categories: ["日记"]

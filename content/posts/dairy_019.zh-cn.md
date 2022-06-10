@@ -2,7 +2,7 @@
 title: "Naval：最难之事不是去做你想做的事，而是去理解你想做的事"
 summary: "日记019"
 date: 2022-05-30T11:54:26+08:00
-draft: false
+draft: true
 
 tags: ["日记"]
 categories: ["日记"]

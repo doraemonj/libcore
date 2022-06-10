@@ -2,7 +2,7 @@
 title: "逻辑能力的高低与误解产生的概率成反比"
 summary: "日记020"
 date: 2022-05-31T12:18:26+08:00
-draft: false
+draft: true
 
 tags: ["日记"]
 categories: ["日记"]

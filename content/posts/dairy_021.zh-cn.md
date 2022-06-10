@@ -2,7 +2,7 @@
 title: "通识教育、逻辑谬误课程、自动翻译系列等陆续启动"
 summary: "日记021"
 date: 2022-06-01T07:06:03+08:00
-draft: false
+draft: true
 
 tags: ["日记"]
 categories: ["日记"]

@@ -2,7 +2,7 @@
 title: "Naval：呼吸是进入你的自主神经系统的通道"
 summary: "日记017"
 date: 2022-05-28T08:48:26+08:00
-draft: false
+draft: true
 
 tags: ["日记"]
 categories: ["日记"]

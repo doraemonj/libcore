@@ -2,7 +2,7 @@
 title: "Order Sentences from Short to Long"
 summary: "Use Python to order sentence"
 date: 2022-05-14T10:47:34+08:00
-draft: false
+draft: true
 
 tags: ["diary", "Python"]
 categories: ["diary"]

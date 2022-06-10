@@ -2,7 +2,7 @@
 title: "Naval：挣钱不能靠卖时间，而要靠思维杠杆"
 summary: "日记011"
 date: 2022-05-22T21:18:26+08:00
-draft: false
+draft: true
 
 tags: ["日记"]
 categories: ["日记"]

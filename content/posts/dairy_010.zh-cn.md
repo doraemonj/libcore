@@ -2,7 +2,7 @@
 title: "读书：Naval的智慧——如何不靠运气致富？"
 summary: "日记010"
 date: 2022-05-21T16:53:26+08:00
-draft: false
+draft: true
 
 tags: ["日记"]
 categories: ["日记"]

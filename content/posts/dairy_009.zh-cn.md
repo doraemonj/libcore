@@ -2,7 +2,7 @@
 title: "每天事项清单"
 summary: "日记009"
 date: 2022-05-20T11:22:26+08:00
-draft: false
+draft: true
 
 tags: ["日记"]
 categories: ["日记"]
@@ -83,7 +83,7 @@ featuredImagePreview: "https://doraemonj.github.io/pics/doraemon_999.jpeg"
 
     -   [ ] Randstad
     
-    -   [ ] Kijiji
+    -   [x] Kijiji
     
     -   [ ] monster.com
 

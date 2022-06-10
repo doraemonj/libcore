@@ -2,7 +2,7 @@
 title: "从搜集招聘信息开始"
 summary: "日记002"
 date: 2022-05-12T22:23:07+08:00
-draft: false
+draft: true
 
 tags: ["日记"]
 categories: ["日记"]

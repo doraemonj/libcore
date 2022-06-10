@@ -2,7 +2,7 @@
 title: "人文课程开始"
 summary: "日记012"
 date: 2022-05-23T12:18:26+08:00
-draft: false
+draft: true
 
 tags: ["日记"]
 categories: ["日记"]

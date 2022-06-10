@@ -2,7 +2,7 @@
 title: "完成第一份英文简历"
 summary: "日记006"
 date: 2022-05-17T22:33:26+08:00
-draft: false
+draft: true
 
 tags: ["日记"]
 categories: ["日记"]

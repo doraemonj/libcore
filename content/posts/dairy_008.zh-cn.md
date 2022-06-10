@@ -2,7 +2,7 @@
 title: "每天事项清单"
 summary: "日记008"
 date: 2022-05-19T09:51:26+08:00
-draft: false
+draft: true
 
 tags: ["日记"]
 categories: ["日记"]

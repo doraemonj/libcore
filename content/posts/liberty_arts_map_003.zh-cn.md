@@ -1,5 +1,5 @@
 ---
-title: "通识地图003："
+title: "通识地图003：来点天文地理"
 summary: "让儿童节从探索宇宙开始"
 date: 2022-06-01T06:53:26+08:00
 draft: false
@@ -9,89 +9,11 @@ categories: ["通识地图"]
 featuredImagePreview: "https://doraemonj.github.io/pics/liberty_arts_20220520.png"
 ---
 
-从今天开始争取每天花20分钟时间过下丛日云教授的西方文明通论，搭配其他内容，拓宽家人视野。
+通识教育第三篇：来点天文地理，甚至上点不讲通识的通识教育课
 
 ---
 
 ### 2022-06-02
-
----
-
-#### 丛日云：西方文明通论 之西方政治文明 11集完整版
-
-{{< youtube  b82Ge6eV6Dc>}}
-
-**01：民国时期的西方科技以及西方文明对中国的影响 (0:00)**
-
-**02：个人主义：形成与演变 (22:36)**
-
-**03： (0:45:08) — 04 (1:07:52)**
-
-	①个人主义：西方政治文明的精髓  （此仅为丛日云的个人观点）;
-	
-	②个人主义的表现；
-	
-	③民主，西方的传统
-
-**05： (1:32:02) — 06 (1:54:11)**
-
-	①古希腊的城邦民主、直接民主 ；
-	
-	②古罗马的共和制度；
-	
-	③中世纪的代议制民主（间接民主）；
-	
-	④现代民主
-
-**07： (2:16:40) — 08 (2:39:06)** 
-
-		①宪政的内涵与渊源；
-	
-		②基督教对于现代政治文明的贡献；
-	
-		③宪政的政治心理基础和理论预设；
-	
-		④二元政治观与二元权利体系
-
-**09：自由 (3:01:56)**
-
-**10：平等 (3:24:45)**
-
-**11：多元主义 (3:47:39)**
-
----
-
-#### [牛妈小绿：移民加拿大五年七次终成正果](https://m.juwai.com/news/137233)
-
----
-
-#### 加拿大 移民 | 大学老师移民做焊工
-
-公交车上一件小事，让他彻底下定移民决心
-
-{{< youtube  Nf8v2WSJMzQ>}}
-
----
-
-跟考拉喝杯酒 | 加拿大 移民 | 留学移民的花费和缺点 
-
-{{< youtube qmvvFks-P3s>}}
-
-跟考拉喝杯酒 |加拿大移民：留学移民要花多少钱？
-
-{{< youtube u7M10_a_CN4>}}
-
-跟考拉喝杯酒 | 上海，一个移民的理由
-
-{{< youtube ZWaZONHJLLY>}}
-
-移民选哪里？
-
-{{< youtube WsFyKWXwki8>}}
-
-从今天起，更激进地推荐移民
-
-{{< youtube PgmC_OEC0Hk>}}
 
 ---
 
@@ -102,6 +24,66 @@ featuredImagePreview: "https://doraemonj.github.io/pics/liberty_arts_20220520.pn
 ---
 
 ### 2022-06-03
+
+---
+
+聊天 + 逛街，无通识课
+
+---
+
+### 2022-06-04
+
+---
+
+逛街 + [家庭会议](https://doraemonj.github.io/zh-cn/family_meeting_01/)，无通识课
+
+---
+
+### 2022-06-05
+
+---
+
+无通识课，Alice当老师，教Amy和我做小油画，成果展览：
+
+![IMG_4937](https://doraemonj.github.io/pics/IMG_4937.jpg)
+
+这是Alice以指导老师身份的作品，上图从左到右分别是：彩云追彩虹、海浪戏沙滩、海鸥逐夕阳。下图是Amy（上）和我（下）的学习作品：
+
+![IMG_4943](https://doraemonj.github.io/pics/IMG_4943.jpg)
+
+没有错，我的海浪比较大，冲到了草原上~
+
+---
+
+### 2022-06-06
+
+---
+
+主题：颜料的历史
+
+#### 《帝国时代4》经历历史-欧洲中世纪颜料
+
+{{< youtube GsQNdv8h1v4>}}
+
+#### 青绿山水巅峰之作《千里江山图》的颜料究竟有何讲究？
+
+{{< youtube XyYkC58pdFE>}}
+
+#### 用过颜料，玩过颜料，但你知道怎么做颜料吗？
+
+{{< bilibili BV1Dx411G7sg>}}
+
+#### TED ED 史上最为致命的颜色
+
+{{< bilibili BV1dx411Y76T>}}
+
+#### 为了画一个字母居然用上金子？中世纪风格手稿制作记录
+
+{{< bilibili BV1zF411h7F2>}}
+
+---
+
+### 2022-06-07
 
 ---
 
@@ -157,75 +139,11 @@ What Did Voyager 1 See During its Journey Out Of The Solar System? 1977-2019 (4k
 
 ---
 
-#### 贺卫方演讲：历史深处的忧思
-
->   2016年末，贺卫方赴陕考察学生谌洪果创办的知无知文化空间，并即席发表年关演讲。此片为演讲全程。
-
-{{< youtube  DkbLBgPHKxw>}}
-
----
-
 #### Naval Ravikant 的故事：天使投资哲学家
 
 The Full Story of Naval Ravikant | The Angel Philosopher
 
 {{< youtube  mGY2To_HW98>}}
-
----
-
-
-
----
-
-#### 罗永浩2006年寒假版上课录音
-
-{{< youtube  LhnqyN5Pey4>}}
-
-老罗荐书：
-
-**美国种族简史**
-
-Ethnic America: A History
-
-**引爆点：小东西如何造成大不同？**
-
-The Tipping Point: How Little Things Can Make a Big Difference
-
-**异类：不一样的成功启示录**
-
-Outliers: The Story of Success
-
-**无价：洞悉大众心理玩转价格游戏**
-
-Priceless: The Myth of Fair Value (and How to Take Advantage of It)
-
----
-
-罗永浩：吉林大学演讲（大约2009年）
-
-{{< youtube  9fBMJvVWPeY>}}
-
----
-
-#### 罗振宇：即将到来的阶层社会
-
-2016年9月2日发布
-
-{{< youtube  OemtBmvQSKE>}}
-
----
-
-#### 冯小刚：中国必然再次发生文革
-
-{{< youtube  gk4uO6VauJo>}}
-
----
-
-#### 柯文哲（从医生到台北市長）：从科学看人类行为
-
-逻辑运算、真假值表、机率、贝叶斯定理、量子力学
-
-{{< youtube  UDAc5M4nTk8>}}
 
 ---
 
@@ -298,17 +216,6 @@ Jeff Bezos In 1999 On Amazon's Plans Before The Dotcom Crash
 【10分鐘了解西方藝術史】| 從中世紀到今天西方藝術都有那些歷史節點？
 
 {{< youtube  kl98bmaMneo>}}
-
----
-
-#### 楊小彥：從具象到抽象——形的意義與客觀物的消失
-
-語言：中文 普通話/國語
-時間：2020年2月22日 星期六 下午3點
-地點：沙甸鹹水埠 / 溫哥華唐人街 奇化街268號 新華中心負一層 071單元
-add：Canton-sardine / 268 Keefer St，#071 at LG level，Vancouver
-
-{{< youtube  dN3ys1y021I>}}
 
 ---
 
@@ -456,129 +363,10 @@ IELTS Speaking test band score of 9 with feedback
 
 ---
 
-### 后续待学习人物清单
-
-陈志武：亚洲教育出了什么问题？
-
-{{< youtube  J54lMa_UA7Y>}}
-
-陈志武：谈教育
-
-{{< youtube  xVGiWvktFZQ>}}
-
-陈志武：如何独立思考？
-
-{{< youtube  dp_wj_Y-8ek>}}
-
----
-
-柴静：穹顶之下
-
-{{< youtube  BgEpruEOrFg>}}
-
-柴静采访丁仲礼被问：中国人是不是人？
-
-{{< youtube HnA8fq5ggUg>}}
-
----
-
-陈丹青：新加坡演讲b
-
-{{< youtube  zH0uDuZniCc>}}
-
----
-
-张维迎：语言腐败
-
-{{< youtube  G_eHivAe9jk>}}
-
----
-
-林毅夫
-
-{{< youtube  e3k3B3o8jXU>}}
-
----
-
-林毅夫与张维迎
-
-{{< youtube  faBXa0xmQKw>}}
-
----
-
-
-
-许知远
-
-任志强
-
-曹德旺
-
-
-
-崔永元
-
-{{< youtube iL5dZBFv--o>}}
-
-
-
-方舟子
-
-韩寒
-
-胡舒立
-
-何清涟
-
-胡平
-
-刘晓波
-
-龙应台
-
-刘苏里
-
-茅于轼
-
-余华
-
-严复
-
-易中天
-
-
-
-
-
-
-
-Linus
-
-贝佐斯
-
-村上春树
-
-白求恩
-
-希特勒
-
-丘吉尔
-
-罗斯福
-
-斯大林
-
-圣杰罗姆
+#### 圣杰罗姆
 
 国立美术馆 – 圣 杰罗姆 安东内洛 达 梅西纳 – 伦敦 – 语音导游 – MyWoWo Travel App
 
 {{< youtube  1meKxR46RSI>}}
 
-……
-
-[世界影响力人物清单](https://zh.wikipedia.org/zh-cn/%E6%97%B6%E4%BB%A3100%E4%BA%BA%EF%BC%9A%E6%9C%AC%E4%B8%96%E7%BA%AA%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%BA%E7%89%A9)
-
 ---
-
-下一篇：通识地图004
-

@@ -2,7 +2,7 @@
 title: "逻辑谬误列表和翻译史人物清单"
 summary: "日记018"
 date: 2022-05-29T18:31:26+08:00
-draft: false
+draft: true
 
 tags: ["日记"]
 categories: ["日记"]

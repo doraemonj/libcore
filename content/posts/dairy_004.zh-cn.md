@@ -2,7 +2,7 @@
 title: "博客主页改版成功"
 summary: "日记004"
 date: 2022-05-14T21:22:26+08:00
-draft: false
+draft: true
 
 tags: ["日记"]
 categories: ["日记"]

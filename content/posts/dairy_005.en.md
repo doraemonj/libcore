@@ -2,7 +2,7 @@
 title: "A Resume from Chinese Mainland"
 summary: "Who am I, and why me?"
 date: 2022-05-17T21:47:34+08:00
-draft: false
+draft: true
 
 tags: ["diary"]
 categories: ["diary"]

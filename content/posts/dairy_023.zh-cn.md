@@ -2,7 +2,7 @@
 title: "今天继续咨询别人，然后写自己的文章"
 summary: "日记023"
 date: 2022-06-03T08:37:14+08:00
-draft: false
+draft: true
 
 tags: ["日记"]
 categories: ["日记"]

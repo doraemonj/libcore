@@ -2,7 +2,7 @@
 title: "开始"
 summary: "日记001"
 date: 2022-05-11T15:13:10+08:00
-draft: false
+draft: true
 
 tags: ["日记"]
 categories: ["日记"]

@@ -2,7 +2,7 @@
 title: "学会打字幕并在Stack Overflow上答题"
 summary: "日记005"
 date: 2022-05-15T21:09:26+08:00
-draft: false
+draft: true
 
 tags: ["日记"]
 categories: ["日记"]
