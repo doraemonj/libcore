@@ -1,6 +1,6 @@
 baseURL = "https://doraemonj.github.io/"
 # [en, zh-cn, fr, ...] 设置默认的语言
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-cn"
 # 网站语言, 仅在这里 CN 大写
 languageCode = "en"
 # 是否包括中日韩文字
@@ -13,7 +13,7 @@ publishDir = "/Users/tangqiang/doraemonj/"
 
 [languages]
   [languages.en]
-    weight = 1
+    weight = 2
     title = "DoraemonJ’s Blog"
     languageCode = "en"
     languageName = "English"
@@ -51,7 +51,7 @@ publishDir = "/Users/tangqiang/doraemonj/"
       weight = 4
 
   [languages.zh-cn]
-    weight = 2
+    weight = 1
     title = "DoraemonJ’s Blog"
     # 网站语言, 仅在这里 CN 大写
     languageCode = "zh-CN"
