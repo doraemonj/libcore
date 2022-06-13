@@ -2,7 +2,7 @@
 title: "打人将被起诉，被起诉者必含打人者？"
 summary: "逻辑谬误013：存在性谬误"
 date: 2022-06-12T05:56:50+08:00
-draft: true
+draft: false
 
 tags: ["逻辑谬误"]
 categories: ["逻辑谬误"]
