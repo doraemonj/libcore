@@ -51,7 +51,7 @@ Hugo本是静态博客建设工具，所谓『静态』就是没有留言、搜�
 
 `git clone https://github.com/doraemonj/my_library.git`
 
-![screenshot_20220718_161216](/Users/tangqiang/doraemonj/pics/screenshot_20220718_161216.png)
+![screenshot_20220718_161216](https://doraemonj.github.io/pics/screenshot_20220718_161216.png)
 
 稍等片刻，就会在当前工作目录下出现一个`my_library`文件夹：
 
@@ -61,21 +61,21 @@ Hugo本是静态博客建设工具，所谓『静态』就是没有留言、搜�
 
 >   cd my_library
 
-![screenshot_20220718_162316](/Users/tangqiang/doraemonj/pics/screenshot_20220718_162316.png)
+![screenshot_20220718_162316](https://doraemonj.github.io/pics/screenshot_20220718_162316.png)
 
 进入my_library文件夹，输入：
 
 >   open .
 
-![screenshot_20220718_162324](/Users/tangqiang/doraemonj/pics/screenshot_20220718_162324.png)
+![screenshot_20220718_162324](https://doraemonj.github.io/pics/screenshot_20220718_162324.png)
 
 `open .`命令可在命令行中，直接打开my_library文件夹。
 
-![screenshot_20220718_163134](/Users/tangqiang/doraemonj/pics/screenshot_20220718_163134.png)
+![screenshot_20220718_163134](https://doraemonj.github.io/pics/screenshot_20220718_163134.png)
 
 打开config.toml文件，需要做两步修改：
 
-![screenshot_20220718_160138](/Users/tangqiang/doraemonj/pics/screenshot_20220718_160138.png)
+![screenshot_20220718_160138](https://doraemonj.github.io/pics/screenshot_20220718_160138.png)
 
 第一，将`publishDir `等于号后的值变更为你指定的目录。这个目录用于存放实际图书馆的位置，建议和`my_library`放在同一目录下：
 
@@ -93,15 +93,15 @@ Hugo本是静态博客建设工具，所谓『静态』就是没有留言、搜�
 
 >   hugo server
 
-![screenshot_20220718_170513](/Users/tangqiang/doraemonj/pics/screenshot_20220718_170513.png)
+![screenshot_20220718_170513](https://doraemonj.github.io/pics/screenshot_20220718_170513.png)
 
 1.358秒生成152个中文页面152个和81个英文页面，复制命令行下方绿线划出的路径（一般为 `http://localhost:1313/`   如果你同时打开多个图书馆，这个路径可能会变），粘贴到浏览器打开，你会看到一个完全由你掌控的图书馆的诞生：
 
-![screenshot_20220718_171438](/Users/tangqiang/doraemonj/pics/screenshot_20220718_171438.png)
+![screenshot_20220718_171438](https://doraemonj.github.io/pics/screenshot_20220718_171438.png)
 
 往下翻一页：
 
-![screenshot_20220718_171343](/Users/tangqiang/doraemonj/pics/screenshot_20220718_171343.png)
+![screenshot_20220718_171343](https://doraemonj.github.io/pics/screenshot_20220718_171343.png)
 
 足够放1000本书……
 
@@ -141,13 +141,15 @@ default.md文件的作用，是设定预置信息的标准格式，在archetypes
 
 刚开始，只有最基本的三要素：网址（baseURL）、语种（languageCode）和标题（title）：
 
-![screenshot_20220718_151743](/Users/tangqiang/doraemonj/pics/screenshot_20220718_151743.png)
+![screenshot_20220718_151743](https://doraemonj.github.io/pics/screenshot_20220718_151743.png)
 
 我们提供的模板，已经设置了更精巧的版式，在这里，我们忽略复杂设置，只蜻蜓点水。
 
 另外，Github上有很多hugo模板，可以下载到my_library的themes文件夹中，如果你还不会使用Github或者Git，不用担心，后续会有更详细的介绍，帮你成为你自己图书馆的馆长。
 
-最后，如果你不想处理复杂的流程，一步到位的话，请找我，我可以帮你付费省时间：
+### 结语
+
+这个完全由你掌控的图书馆全部基于近10多年来的开源代码和基础设施，流程稍显复杂，需要花点时间揣摩运用，如果想一步到位的话，请找我，我可以帮你付费省时间：
 
 Mixin：29273
 
