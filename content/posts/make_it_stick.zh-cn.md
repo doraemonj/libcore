@@ -2,7 +2,7 @@
 title: "让所学和你相关"
 summary: "Make it Stick: The Science of Successful Learning"
 date: 2022-02-18T11:46:29+08:00
-draft: true
+draft: false
 
 tags: ["学习","learn","skill","self-learning"]
 categories: ["skill", "learning"]

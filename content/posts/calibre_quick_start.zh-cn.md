@@ -2,7 +2,7 @@
 title: "Calibre 快速入门指南"
 summary: "Calibre Quick Start Guide"
 date: 2022-02-04T10:07:48+08:00
-draft: true
+draft: false
 
 tags: ["Calibre","快速入门","手册","handbook"]
 categories: ["技能","skill"]

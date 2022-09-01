@@ -2,7 +2,7 @@
 title: "如何解决『Automator』文件夹操作失灵问题"
 summary: "How To Fix Automator Folder Actions Not Working"
 date: 2022-03-12T16:12:16+08:00
-draft: true
+draft: false
 
 tags: ["Mac Automator","not work","Justin Meredith","Folder Actions", "workflow"]
 categories: ["Folder Actions", "workflow", "Mac Automator"]
