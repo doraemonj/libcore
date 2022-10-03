@@ -7,7 +7,7 @@ featuredImage: "https://doraemonj.github.io/pics/doraemon_001.jpeg"
 featuredImagePreview: "https://doraemonj.github.io/pics/doraemon_001.jpeg"
 ---
 
-Hi，我是机器猫，欢迎你的参观，今天是2022年9月1日，很高兴和你这位来自Mixin世界的朋友相遇。
+Hi，我是机器猫，欢迎你的参观，今天是2022年9月26日，很高兴和你这位来自Mixin世界的朋友相遇。
 
 这里已经存在一个微型图书馆，而且还可以帮你：
 

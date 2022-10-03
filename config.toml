@@ -6,7 +6,7 @@ languageCode = "en"
 # 是否包括中日韩文字
 hasCJKLanguage = true
 # 网站标题
-title = "DoraemonJ’s Blog"
+title = "DoraemonJ's Library"
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "LoveIt"
 publishDir = "/Users/tangqiang/doraemonj/"
@@ -14,7 +14,7 @@ publishDir = "/Users/tangqiang/doraemonj/"
 [languages]
   [languages.en]
     weight = 2
-    title = "DoraemonJ’s Blog"
+    title = "DoraemonJ's Library"
     languageCode = "en"
     languageName = "English"
     [[languages.en.menu.main]]
@@ -52,7 +52,7 @@ publishDir = "/Users/tangqiang/doraemonj/"
 
   [languages.zh-cn]
     weight = 1
-    title = "DoraemonJ’s Blog"
+    title = "DoraemonJ's Library"
     # 网站语言, 仅在这里 CN 大写
     languageCode = "zh-CN"
     languageName = "简体中文"
@@ -95,7 +95,7 @@ publishDir = "/Users/tangqiang/doraemonj/"
   #  LoveIt 主题版本
   version = "0.2.X"
   # 网站描述
-  description = "DoraemonJ’s Blog"
+  description = "DoraemonJ's Library"
   # 网站关键词
   keywords = ["机器猫J", "Doraemonj"]
   # 网站默认主题样式 ("light", "dark", "auto")
@@ -114,7 +114,7 @@ publishDir = "/Users/tangqiang/doraemonj/"
   #  应用图标配置
   [params.app]
     # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-    title = "DoraemonJ’s Blog"
+    title = "DoraemonJ's Library"
     # 是否隐藏网站图标资源链接
     noFavicon = false
     # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
@@ -159,7 +159,7 @@ publishDir = "/Users/tangqiang/doraemonj/"
       # LOGO 的 URL
       logo = ""
       # 标题名称
-      name = "DoraemonJ’s Blog"
+      name = "DoraemonJ's Library"
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
@@ -493,7 +493,7 @@ publishDir = "/Users/tangqiang/doraemonj/"
 
   # 网站验证代码，用于 Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
-    google = ""
+    google = "G-4NMDR55XPK"
     bing = ""
     yandex = ""
     pinterest = ""
