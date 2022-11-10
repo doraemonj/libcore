@@ -1,6 +1,6 @@
 ---
 title: "比特币天文学3：符号化的东西就是公钥本身"
-summary: "区块链：一个文明自我验证的历史"
+summary: "区块链是文明自我验证的历史"
 date: 2022-10-17T10:37:31+08:00
 draft: false
 author: Dhruv Bansal
